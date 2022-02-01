@@ -1,6 +1,6 @@
 ## Desafio
 
-O desafio consiste em fazer uma busca na api de listagem de pokemons, apresentar essa lisatagem com paginção e ao clicar em algum pokemon da listagem abrir os destalhes desse do pokemon clicado.
+O desafio consiste em fazer uma busca na api de listagem de pokemons, apresentar essa listagem com paginação e ao clicar em algum pokemon da listagem abrir os detalhes desse  pokemon clicado.
 
 Documentação da api: https://pokeapi.co/
 
